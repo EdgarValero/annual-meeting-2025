@@ -1,9 +1,9 @@
 # Crear presentación Anual Meet
 
-Genera o actualiza la presentación HTML (`presentacion.html`) usando como base el contenido de `contenido.md`.
+Genera o actualiza la presentación HTML (`index.html`) usando como base el contenido de `content.md`.
 
 **Instrucciones:**
-1. Lee el archivo `contenido.md` para obtener toda la información del evento.
+1. Lee el archivo `content.md` para obtener toda la información del evento.
 2. Crea o actualizar `presentacion.html` siguiendo la estructura y estilo existentes.
 3. Respeta las reglas del proyecto: tono formal, con emojis y/o imágenes para resaltar cada punto.
 4. Mantén el diseño responsive, la navegación entre slides y las transiciones actuales.

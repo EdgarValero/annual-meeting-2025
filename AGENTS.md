@@ -6,7 +6,7 @@ Este es el proyecto para el evento Anual Meet 2026. **Objetivo:** crear una pres
 
 ## Guía de trabajo
 
-- Consultar `contenido.md` para el contexto y contenido del evento
+- Consultar `content.md` para el contexto y contenido del evento
 - La salida principal es una presentación HTML interactiva (slides, navegación, animaciones)
 - Mantener consistencia con la estructura existente del proyecto
 - Priorizar claridad, simplicidad y buena experiencia de usuario en la presentación
