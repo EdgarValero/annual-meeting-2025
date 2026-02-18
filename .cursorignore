@@ -1,0 +1,24 @@
+# Dependencias
+node_modules/
+vendor/
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Build y artefactos
+dist/
+build/
+.next/
+out/
+*.log
+
+# Archivos de entorno (pueden contener secretos)
+.env
+.env.local
+.env.*.local
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db

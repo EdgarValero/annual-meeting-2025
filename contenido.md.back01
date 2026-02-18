@@ -1,0 +1,37 @@
+# Anual meet 2026
+## objetivos del año 2025 en el 2024
+- Sacar a la luz nuestro sistema de trazabilidad con Elastic
+- Asesoría de Ciberseguridad
+- Implementar estrategia de Observabilidad
+- Más automatización de procesos de desarrollo
+- Análisis de datos
+- Ampliar conocimientos sobre infraestructura
+- Interoperabilidad con HL7 FHIR
+- Seguir implementando herramientas AI en nuestro trabajo, procesos y aplicaciones
+## Realizado
+
+- implementación de backup
+- correlación de demograficos
+- pre-ordenes
+    - Fusión de pre-ordenes
+- deuda tecnica
+    - apliendo testing
+    - Migración PrimeNG 18
+    - Mejora rendimiento de reportes
+    - Mejora de la cola de tareas de integración
+    - Reenvio de mensajeria de integración
+- Consulta web de paciente (RecordLab)
+- Driver ASTM
+- Modulo de rechazo
+    - Rechazo por examenes
+- Nuevo flujo CI/CD
+    - Mejoramiento en el lanzamiento de las versiones
+    - Mejoras en Pruebas UAT
+- Eliminación de microservicion order-id-Worker
+- Perfiles
+- Recuperación de contraseñas
+- Codificación multiple
+- En proceso
+    - Notificatión APP
+    - Paneles
+    - Cupos compartidos

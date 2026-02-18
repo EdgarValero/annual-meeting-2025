@@ -1,0 +1,42 @@
+---
+description: Estándares y convenciones del proyecto Anual Meet
+alwaysApply: true
+---
+
+# Anual Meet 2026 - Estándares del Proyecto
+
+## Objetivo
+
+Crear una presentación interactiva en HTML para el evento Anual Meet 2026.
+
+## General
+
+- Mantener el código limpio y bien documentado
+- Usar nombres descriptivos para archivos y variables
+- Seguir las convenciones existentes del proyecto
+
+## Presentación HTML
+
+- HTML semántico y accesible
+- Diseño responsive para distintos tamaños de pantalla
+- Interactividad fluida (navegación entre slides, transiciones)
+- Código CSS/JS organizado y mantenible
+
+## Estilo de contenido de la presentación
+
+**Tono:** Formal y profesional. Mantener lenguaje corporativo apropiado para el contexto del evento.
+
+**Resaltado visual obligatorio:** Cada punto o ítem debe incluir al menos uno de estos elementos para dar énfasis:
+- **Emojis:** Usar emojis relevantes al inicio o junto a cada ítem (ej: 📊 para datos, 🔒 para seguridad, 🤖 para AI, ⚡ para automatización).
+- **Imágenes:** Incluir iconos o ilustraciones cuando aporten claridad (logos, diagramas, iconos de concepto).
+- Combinar ambos cuando sea apropiado.
+
+**Directrices:**
+- Emojis: 1 por ítem principal, coherentes con el tema (evitar exceso).
+- Imágenes: en carpeta `logos/` o `assets/`; usar `alt` descriptivo para accesibilidad.
+- Mantener el equilibrio: formalidad en el texto, apoyo visual para facilitar la lectura.
+
+## Documentación
+
+- Mantener contenido.md actualizado con la información relevante del evento
+- Documentar decisiones importantes en comentarios o archivos README
